@@ -3,6 +3,11 @@
 
 Une application web moderne et épurée pour gérer vos achats alimentaires, suivre votre budget et analyser vos habitudes de consommation.
 
+## 🔗 Liens
+
+- **Application** : `https://smart-grocery-manager-blue.vercel.app/`
+- **GitHub** : `https://github.com/DUNCAN-AVITI/SGM`
+
 ## 🚀 Fonctionnalités
 
 - **Gestion des achats** : Ajouter, modifier et supprimer des articles.
