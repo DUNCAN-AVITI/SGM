@@ -1,0 +1,5 @@
+{
+  "name": "Smart Grocery Manager",
+  "description": "A modern, clean grocery management application with budget tracking, product analytics, and local storage persistence.",
+  "requestFramePermissions": []
+}
